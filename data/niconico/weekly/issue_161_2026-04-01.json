@@ -1,0 +1,235 @@
+{
+  "source": "niconico",
+  "issue": 161,
+  "type": "weekly",
+  "opus_id": "1186266531200237592",
+  "title": "【2026/04/01】ニコニコ VOCALOID SONGS TOP20",
+  "year": 2026,
+  "date": "2026-04-01",
+  "week": 14,
+  "pub_time_str": "编辑于 2026年04月01日 19:00",
+  "pub_ts": "1775037600",
+  "source_url": "https://www.bilibili.com/opus/1186266531200237592",
+  "updated_at": "2026-10-14T15:06:15.761406+00:00",
+  "total_ranked": 18,
+  "items": [
+    {
+      "rank": 1,
+      "title": "デロスサントス",
+      "author": "山本",
+      "prev_rank": "3",
+      "weeks": 6,
+      "aid": "116103586124165",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116103586124165",
+      "pic_url": ""
+    },
+    {
+      "rank": 2,
+      "title": "クロスロード",
+      "author": "kz × TAKU INOUE",
+      "prev_rank": "6",
+      "weeks": 3,
+      "aid": "116198562071984",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116198562071984",
+      "pic_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "個々々々々々人",
+      "author": "Sohbana",
+      "prev_rank": "1",
+      "weeks": 6,
+      "aid": "116112780041780",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116112780041780",
+      "pic_url": ""
+    },
+    {
+      "rank": 6,
+      "title": "たびだちのうた",
+      "author": "カラスヤサボウ",
+      "prev_rank": "14",
+      "weeks": 4,
+      "aid": "115972119730414",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av115972119730414",
+      "pic_url": ""
+    },
+    {
+      "rank": 7,
+      "title": "ブレインロット",
+      "author": "東京真中",
+      "prev_rank": "5",
+      "weeks": 6,
+      "aid": "116103552437316",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116103552437316",
+      "pic_url": ""
+    },
+    {
+      "rank": 8,
+      "title": "ループザルーム",
+      "author": "ルシノ",
+      "prev_rank": "10",
+      "weeks": 14,
+      "aid": "115752338194968",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av115752338194968",
+      "pic_url": ""
+    },
+    {
+      "rank": 9,
+      "title": "うそつきマカロン",
+      "author": "暴飲暴食P",
+      "prev_rank": "9",
+      "weeks": 4,
+      "aid": "115972522379688",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av115972522379688",
+      "pic_url": ""
+    },
+    {
+      "rank": 10,
+      "title": "スパイラル・メロディーズ",
+      "author": "Omoi",
+      "prev_rank": "16",
+      "weeks": 3,
+      "aid": "116141972261060",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116141972261060",
+      "pic_url": ""
+    },
+    {
+      "rank": 11,
+      "title": "む (裏)",
+      "author": "大漠波新",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116300567350520",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116300567350520",
+      "pic_url": ""
+    },
+    {
+      "rank": 12,
+      "title": "スプリットダンス",
+      "author": "えいぷ",
+      "prev_rank": "12",
+      "weeks": 5,
+      "aid": "116062733537486",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116062733537486",
+      "pic_url": ""
+    },
+    {
+      "rank": 13,
+      "title": "ワールドイズマイン",
+      "author": "ryo (supercell)",
+      "prev_rank": "11",
+      "weeks": 8,
+      "aid": "16313",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av16313",
+      "pic_url": ""
+    },
+    {
+      "rank": 14,
+      "title": "告白",
+      "author": "内緒のピアス",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116307362056395",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116307362056395",
+      "pic_url": ""
+    },
+    {
+      "rank": 15,
+      "title": "アンノウン・マザーグース",
+      "author": "wowaka",
+      "prev_rank": "17",
+      "weeks": 115,
+      "aid": "13673279",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av13673279",
+      "pic_url": ""
+    },
+    {
+      "rank": 16,
+      "title": "メズマライザー",
+      "author": "サツキ",
+      "prev_rank": "8",
+      "weeks": 84,
+      "aid": "1254639592",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av1254639592",
+      "pic_url": ""
+    },
+    {
+      "rank": 17,
+      "title": "キング・オ・ランタン",
+      "author": "サツキ",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116255956671072",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116255956671072",
+      "pic_url": ""
+    },
+    {
+      "rank": 18,
+      "title": "オーパーツ",
+      "author": "煮ル果実",
+      "prev_rank": "15",
+      "weeks": 7,
+      "aid": "115225416178330",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av115225416178330",
+      "pic_url": ""
+    },
+    {
+      "rank": 19,
+      "title": "バッカアノ",
+      "author": "Chinozo",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116283051876178",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116283051876178",
+      "pic_url": ""
+    },
+    {
+      "rank": 20,
+      "title": "テトリス",
+      "author": "柊マグネタイト",
+      "prev_rank": "—",
+      "weeks": 64,
+      "aid": "113447568148949",
+      "bvid": "BV1GADYYmEnd",
+      "url": "https://www.bilibili.com/video/BV1GADYYmEnd",
+      "pic_url": "http://i1.hdslb.com/bfs/archive/3e804cd6f9d2b77a93aada8a64872158354c9d12.jpg",
+      "video_meta": {
+        "title": "テトリス / 重音テトSV",
+        "pic": "http://i1.hdslb.com/bfs/archive/3e804cd6f9d2b77a93aada8a64872158354c9d12.jpg",
+        "duration": 143,
+        "pubdate": 1731072742,
+        "uploader": {
+          "mid": 3493138622581415,
+          "name": "柊マグネタイト",
+          "face": "https://i2.hdslb.com/bfs/face/54c7a1264841e21b2f70fde49a9ce79fea864308.jpg"
+        },
+        "stat": {
+          "view": 5636292,
+          "danmaku": 17987,
+          "reply": 6014,
+          "favorite": 216907,
+          "coin": 59066,
+          "share": 26673,
+          "like": 189759
+        }
+      }
+    }
+  ]
+}

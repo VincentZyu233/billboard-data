@@ -1,0 +1,257 @@
+{
+  "source": "niconico",
+  "issue": 168,
+  "type": "weekly",
+  "opus_id": "1204449717633679396",
+  "title": "【2026/05/20】ニコニコ VOCALOID SONGS TOP20",
+  "year": 2026,
+  "date": "2026-05-20",
+  "week": 21,
+  "pub_time_str": "编辑于 2026年05月20日 19:01",
+  "pub_ts": "1779271203",
+  "source_url": "https://www.bilibili.com/opus/1204449717633679396",
+  "updated_at": "2026-10-14T15:05:07.858629+00:00",
+  "total_ranked": 20,
+  "items": [
+    {
+      "rank": 1,
+      "title": "歌姫失格",
+      "author": "ピノキオピー",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116553718765633",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116553718765633",
+      "pic_url": ""
+    },
+    {
+      "rank": 2,
+      "title": "ド七五サンバ",
+      "author": "なみぐる",
+      "prev_rank": "3",
+      "weeks": 2,
+      "aid": "116489864743781",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116489864743781",
+      "pic_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "メズマライザー",
+      "author": "サツキ",
+      "prev_rank": "9",
+      "weeks": 91,
+      "aid": "1254639592",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av1254639592",
+      "pic_url": ""
+    },
+    {
+      "rank": 4,
+      "title": "個々々々々々人",
+      "author": "Sohbana",
+      "prev_rank": "2",
+      "weeks": 11,
+      "aid": "116112780041780",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116112780041780",
+      "pic_url": ""
+    },
+    {
+      "rank": 5,
+      "title": "おばけ体験",
+      "author": "サツキ",
+      "prev_rank": "7",
+      "weeks": 2,
+      "aid": "116528871641595",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116528871641595",
+      "pic_url": ""
+    },
+    {
+      "rank": 6,
+      "title": "ブレインロット",
+      "author": "東京真中",
+      "prev_rank": "4",
+      "weeks": 13,
+      "aid": "116103552437316",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116103552437316",
+      "pic_url": ""
+    },
+    {
+      "rank": 7,
+      "title": "ループザルーム",
+      "author": "ルシノ",
+      "prev_rank": "8",
+      "weeks": 21,
+      "aid": "115752338194968",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av115752338194968",
+      "pic_url": ""
+    },
+    {
+      "rank": 8,
+      "title": "いますぐ輪廻",
+      "author": "なきそ",
+      "prev_rank": "11",
+      "weeks": 37,
+      "aid": "114952954187731",
+      "bvid": "BV1phhHz8EPF",
+      "url": "https://www.bilibili.com/video/BV1phhHz8EPF",
+      "pic_url": "http://i0.hdslb.com/bfs/archive/7ef814b3a46b4555d1e3aec905bb622e4d4521ac.jpg",
+      "video_meta": {
+        "title": "【初音ミク】いますぐ輪廻（即刻轮回）【なきそ】",
+        "pic": "http://i0.hdslb.com/bfs/archive/7ef814b3a46b4555d1e3aec905bb622e4d4521ac.jpg",
+        "duration": 123,
+        "pubdate": 1754043184,
+        "uploader": {
+          "mid": 39873100,
+          "name": "珠紫MuRaSaKi",
+          "face": "https://i1.hdslb.com/bfs/face/c10d5bdf351c2eca4a5b57f48a506492a6a940d1.jpg"
+        },
+        "stat": {
+          "view": 11131286,
+          "danmaku": 52456,
+          "reply": 20180,
+          "favorite": 372770,
+          "coin": 54863,
+          "share": 54576,
+          "like": 417004
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "title": "ひみつの地図",
+      "author": "ドアのノブ",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116549776053393",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116549776053393",
+      "pic_url": ""
+    },
+    {
+      "rank": 10,
+      "title": "おどロボ",
+      "author": "海茶",
+      "prev_rank": "—",
+      "weeks": 4,
+      "aid": "1806400628",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av1806400628",
+      "pic_url": ""
+    },
+    {
+      "rank": 11,
+      "title": "アンノウン・マザーグース",
+      "author": "wowaka",
+      "prev_rank": "14",
+      "weeks": 122,
+      "aid": "13673279",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av13673279",
+      "pic_url": ""
+    },
+    {
+      "rank": 12,
+      "title": "テトリス",
+      "author": "柊マグネタイト",
+      "prev_rank": "19",
+      "weeks": 71,
+      "aid": "113447568148949",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av113447568148949",
+      "pic_url": ""
+    },
+    {
+      "rank": 13,
+      "title": "モニタリング",
+      "author": "DECO*27",
+      "prev_rank": "—",
+      "weeks": 68,
+      "aid": "113474931986942",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av113474931986942",
+      "pic_url": ""
+    },
+    {
+      "rank": 14,
+      "title": "オーバーライド",
+      "author": "吉田夜世",
+      "prev_rank": "18",
+      "weeks": 89,
+      "aid": "114500338458449",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av114500338458449",
+      "pic_url": ""
+    },
+    {
+      "rank": 15,
+      "title": "ラブパラ",
+      "author": "DECO*27",
+      "prev_rank": "6",
+      "weeks": 3,
+      "aid": "116463306478760",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116463306478760",
+      "pic_url": ""
+    },
+    {
+      "rank": 16,
+      "title": "只の二乗",
+      "author": "奏(kanade)",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116578246988159",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116578246988159",
+      "pic_url": ""
+    },
+    {
+      "rank": 17,
+      "title": "ライフリワード",
+      "author": "栗山夕璃",
+      "prev_rank": "—",
+      "weeks": 1,
+      "aid": "116555849535299",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116555849535299",
+      "pic_url": ""
+    },
+    {
+      "rank": 18,
+      "title": "フォニイ",
+      "author": "ツミキ",
+      "prev_rank": "—",
+      "weeks": 124,
+      "aid": "205988503",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av205988503",
+      "pic_url": ""
+    },
+    {
+      "rank": 19,
+      "title": "熱異常",
+      "author": "いよわ",
+      "prev_rank": "—",
+      "weeks": 33,
+      "aid": "773781060",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av773781060",
+      "pic_url": ""
+    },
+    {
+      "rank": 20,
+      "title": "アンタに言ってんの",
+      "author": "ぴーなた",
+      "prev_rank": "16",
+      "weeks": 7,
+      "aid": "116272767438375",
+      "bvid": "",
+      "url": "https://www.bilibili.com/video/av116272767438375",
+      "pic_url": ""
+    }
+  ]
+}

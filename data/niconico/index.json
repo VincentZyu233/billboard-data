@@ -1,9 +1,23 @@
 {
   "source": "niconico",
-  "updated_at": "2026-10-14T15:07:14.270355+00:00",
-  "latest_issue": 189,
-  "total_issues": 35,
+  "updated_at": "2026-10-21T15:08:26.627104+00:00",
+  "latest_issue": 190,
+  "total_issues": 36,
   "issues": [
+    {
+      "issue": 190,
+      "type": "weekly",
+      "opus_id": "1261596838808518725",
+      "title": "【2026/10/21】ニコニコ VOCALOID SONGS TOP20",
+      "year": 2026,
+      "date": "2026-10-21",
+      "week": 43,
+      "pub_time_str": "编辑于 2026年10月21日 19:01",
+      "pub_ts": "1792576804",
+      "total_ranked": 20,
+      "source_url": "https://www.bilibili.com/opus/1261596838808518725",
+      "path": "weekly/issue_190_2026-10-21.json"
+    },
     {
       "issue": 189,
       "type": "weekly",
